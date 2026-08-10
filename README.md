@@ -3,6 +3,9 @@
 ## Project Overview
 This repository contains an end-to-end Power BI sales analytics dashboard designed to monitor revenue streams, order volumes, profitability, and customer purchasing patterns across multiple regions, categories, and payment channels. By transforming raw order transaction records into interactive visual reports, the dashboard enables stakeholders to track performance metrics and uncover operational inefficiencies.
 
+<img width="905" height="532" alt="image" src="https://github.com/user-attachments/assets/24b04daa-849e-490c-9e39-88afdc6fa260" />
+
+
 ---
 
 ## Key Metrics & Highlights
